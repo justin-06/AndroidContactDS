@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">AndroidContactDS</string>
+    <string name="contact1">Emilie</string>
+    <string name="contact2">François</string>
+    <string name="contact3">Didier</string>
+
+    <string-array name="contactsPrenom">
+        <item>@string/contact1</item>
+        <item>@string/contact2</item>
+        <item>@string/contact3</item>
+    </string-array>
+    <string-array name="contactLists">
+        <item><string>Emilie</string></item>
+        <item><string>Ronchon</string></item>
+        <item><string>Toulon</string></item>
+        <item><string>Emilie.Ronchon@gmail.com</string></item>
+        <item><string>François</string></item>
+        <item><string>Montazac</string></item>
+        <item><string>Aix</string></item>
+        <item><string>François.Montazac@gmail.com</string></item><item><string>Didier</string></item>
+        <item><string>Marie Blachere</string></item>
+        <item><string>Marseille</string></item>
+        <item><string>Didier.Marie-Blachere@gmail.com</string></item>
+    </string-array>
 </resources>
